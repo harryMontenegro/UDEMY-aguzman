@@ -8,7 +8,7 @@ public class EjemploVariables9 {
 
         System.out.println("saludar.toUpperCase() = " + saludar.toUpperCase());
 
-        int numero = 11;
+        int numero = 10;
 
     }
 }
