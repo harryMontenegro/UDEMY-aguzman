@@ -1,4 +1,3 @@
-import java.util.Date;
 
 public class EjemploVariables9 {
     public static void main(String[] args) {
@@ -7,8 +6,5 @@ public class EjemploVariables9 {
         System.out.println(saludar);
 
         System.out.println("saludar.toUpperCase() = " + saludar.toUpperCase());
-
-        int numero = 111;
-
     }
 }
