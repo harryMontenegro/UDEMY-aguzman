@@ -32,5 +32,6 @@ public class ReglasParaDefinirVariables10 {
         System.out.println("nombre = " + nombre);
 
         int edadPersona = 5;
+
     }
 }
