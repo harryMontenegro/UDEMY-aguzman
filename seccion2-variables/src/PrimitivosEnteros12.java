@@ -1,4 +1,4 @@
-public class Primitivos12 {
+public class PrimitivosEnteros12 {
     public static void main(String[] args) {
 
         //Un byte equivale a 8bits, es el entero más pequeño de java
