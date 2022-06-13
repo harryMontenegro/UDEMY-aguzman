@@ -1,3 +1,5 @@
+package variables;
+
 public class ConversionDeTipos22 {
     public static void main(String[] args) {
 

@@ -1,4 +1,6 @@
-public class PrimitivosCaracteres16 {
+package variables;
+
+public class PrimitivosCaracteres15 {
     public static void main(String[] args) {
 
         // \u0040 representa secuencia de escape de un carácter de la tabla unicode
@@ -16,14 +18,7 @@ public class PrimitivosCaracteres16 {
         var varCaracter2 = 64;
         System.out.println("varCaracter2 = " + varCaracter2);
 
-        char espacio1 = ' ';
-        char espacio2 = '\u0020';
-        char retroceso = '\b'; //Retroceso, elimina el carácter hacia atrás
-        char tabulador = '\t';
-        char nuevaLinea = '\n';
-        char retornoCarro = '\r';// Retrocede y reicia la linea, depende del sistema operativo
-
-        System.out.println("char corresponde en \tbyte:" + System.lineSeparator() + retornoCarro + Character.BYTES);
+        System.out.println("char corresponde en byte " + Character.BYTES);
         System.out.println("char corresponde en bits " + Character.SIZE);
         System.out.println("Character.MAX_VALUE = " + Character.MAX_VALUE);
         System.out.println("Character.MIN_VALUE = " + Character.MIN_VALUE);

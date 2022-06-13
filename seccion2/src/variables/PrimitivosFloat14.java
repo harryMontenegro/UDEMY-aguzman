@@ -1,3 +1,5 @@
+package variables;
+
 public class PrimitivosFloat14 {
     static float varFlotanteStatic;
 

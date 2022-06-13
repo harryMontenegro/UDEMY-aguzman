@@ -1,3 +1,5 @@
+package variables;
+
 public class PrimitivosEnteros12 {
     public static void main(String[] args) {
 

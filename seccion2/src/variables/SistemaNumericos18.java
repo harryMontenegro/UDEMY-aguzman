@@ -1,3 +1,5 @@
+package variables;
+
 public class SistemaNumericos18 {
     public static void main(String[] args) {
 

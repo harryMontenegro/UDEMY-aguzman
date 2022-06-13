@@ -3,7 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/UDEMY-aguzman.iml" filepath="$PROJECT_DIR$/UDEMY-aguzman.iml" />
-      <module fileurl="file://$PROJECT_DIR$/seccion2-variables/seccion2-variables.iml" filepath="$PROJECT_DIR$/seccion2-variables/seccion2-variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seccion2/seccion2.iml" filepath="$PROJECT_DIR$/seccion2/seccion2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seccion3/seccion3.iml" filepath="$PROJECT_DIR$/seccion3/seccion3.iml" />
     </modules>
   </component>
 </project>

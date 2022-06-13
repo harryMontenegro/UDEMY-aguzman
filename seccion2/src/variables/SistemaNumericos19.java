@@ -1,3 +1,5 @@
+package variables;
+
 import javax.swing.*;
 
 public class SistemaNumericos19 {

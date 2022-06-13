@@ -1,3 +1,5 @@
+package variables;
+
 public class PrimitivosBoolean17 {
     public static void main(String[] args) {
 
