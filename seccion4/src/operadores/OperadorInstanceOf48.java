@@ -1,16 +1,16 @@
 package operadores;
 
-public class OperadorIntanceOf48 {
+public class OperadorInstanceOf48 {
     public static void main(String[] args) {
 
-        String text0 = "Creado un objeto de la clase String...que tal!";
+        String text = "Creado un objeto de la clase String...que tal!";
 
         Integer num = 7;
 
-        Boolean b1 = text0 instanceof String;
+        Boolean b1 = text instanceof String;
         System.out.println("texto es del tipo String: " + b1);
 
-        b1 = text0 instanceof Object;
+        b1 = text instanceof Object;
         System.out.println("texto es del tipo Object: " + b1);
 
         b1 = num instanceof Integer;
