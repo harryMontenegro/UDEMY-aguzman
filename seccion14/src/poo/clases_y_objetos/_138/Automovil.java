@@ -1,4 +1,4 @@
-package poo.clases_y_objetos._135;
+package poo.clases_y_objetos._138;
 
 public class Automovil {
 
@@ -8,44 +8,66 @@ public class Automovil {
     private double cilindrada;
     private int capacidadEstanque = 40;
 
-
-    public String leerFabricante(){
-        return this.fabricante;
+    public Automovil() {
     }
 
-    public void asignarFabricante(String fabricante){
+    public Automovil(String fabricante, String modelo){
         this.fabricante = fabricante;
-    }
-
-    public String leerModelo(){
-        return this.modelo;
-    }
-
-    public void asignarModelo(String modelo){
         this.modelo = modelo;
     }
 
-    public String leerColor(){
-        return this.color;
-    }
-
-    public void asignarColor(String color){
+    public Automovil(String fabricante, String modelo, String color) {
+        this(fabricante, modelo);
         this.color = color;
     }
 
-    public double leerCilindrada(){
-        return this.cilindrada;
-    }
-
-    public void asignarCilindrada(double cilindrada){
+    public Automovil(String fabricante, String modelo, String color, double cilindrada) {
+        this(fabricante, modelo, color);
         this.cilindrada = cilindrada;
     }
 
-    public int leerCapacidadEstanque(){
+    public Automovil(String fabricante, String modelo, String color, double cilindrada, int capacidadEstanque) {
+        this(fabricante, modelo, color, cilindrada);
+        this.capacidadEstanque = capacidadEstanque;
+    }
+
+    public String getFabricante(){
+        return this.fabricante;
+    }
+
+    public void setFabricante(String fabricante){
+        this.fabricante = fabricante;
+    }
+
+    public String getModelo(){
+        return this.modelo;
+    }
+
+    public void setModelo(String modelo){
+        this.modelo = modelo;
+    }
+
+    public String getColor(){
+        return this.color;
+    }
+
+    public void setColor(String color){
+        this.color = color;
+    }
+
+    public double getCilindrada(){
+        return this.cilindrada;
+    }
+
+    public void setCilindrada(double cilindrada){
+        this.cilindrada = cilindrada;
+    }
+
+    public int getCapacidadEstanque(){
         return this.capacidadEstanque;
     }
 
-    public void asignarCapacidadEstanque(int  capacidadEstanque){
+    public void setCapacidadEstanque(int  capacidadEstanque){
         this.capacidadEstanque = capacidadEstanque;
     }
 

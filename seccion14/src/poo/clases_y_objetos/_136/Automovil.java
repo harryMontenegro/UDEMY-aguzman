@@ -1,4 +1,4 @@
-package poo.clases_y_objetos._135;
+package poo.clases_y_objetos._136;
 
 public class Automovil {
 
@@ -9,43 +9,43 @@ public class Automovil {
     private int capacidadEstanque = 40;
 
 
-    public String leerFabricante(){
+    public String getFabricante(){
         return this.fabricante;
     }
 
-    public void asignarFabricante(String fabricante){
+    public void setFabricante(String fabricante){
         this.fabricante = fabricante;
     }
 
-    public String leerModelo(){
+    public String getModelo(){
         return this.modelo;
     }
 
-    public void asignarModelo(String modelo){
+    public void setModelo(String modelo){
         this.modelo = modelo;
     }
 
-    public String leerColor(){
+    public String getColor(){
         return this.color;
     }
 
-    public void asignarColor(String color){
+    public void setColor(String color){
         this.color = color;
     }
 
-    public double leerCilindrada(){
+    public double getCilindrada(){
         return this.cilindrada;
     }
 
-    public void asignarCilindrada(double cilindrada){
+    public void setCilindrada(double cilindrada){
         this.cilindrada = cilindrada;
     }
 
-    public int leerCapacidadEstanque(){
+    public int getCapacidadEstanque(){
         return this.capacidadEstanque;
     }
 
-    public void asignarCapacidadEstanque(int  capacidadEstanque){
+    public void setCapacidadEstanque(int  capacidadEstanque){
         this.capacidadEstanque = capacidadEstanque;
     }
 
