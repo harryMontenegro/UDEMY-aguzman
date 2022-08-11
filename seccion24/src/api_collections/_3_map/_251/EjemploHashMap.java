@@ -1,6 +1,5 @@
 package api_collections._3_map._251;
 
-import java.time.Period;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -9,6 +8,7 @@ public class EjemploHashMap {
     public static void main(String[] args) {
 
         //Utiliza el hashCode o el equal para determinar si un elemento es igual
+        // Los Map no son ordenados, ni mantienen el orden de inserción.
         Map<String, String> persona = new HashMap<>();
         persona.put(null, "1234");// Acepta null en las llaves, pero solo 1
         persona.put(null, "12345");//Las llaves siempre son únicas y deja siempre la última ocurrencia
