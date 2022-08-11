@@ -1,4 +1,4 @@
-package api_collections.set._242;
+package api_collections._1_set._242;
 
 import java.util.HashSet;
 import java.util.Set;

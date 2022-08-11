@@ -1,6 +1,6 @@
-package api_collections.set._245;
+package api_collections._1_set._245;
 
-import api_collections.set._245.modelo.Alumno;
+import api_collections._1_set._245.modelo.Alumno;
 
 import java.util.Set;
 import java.util.TreeSet;

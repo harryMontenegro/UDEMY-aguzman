@@ -1,4 +1,4 @@
-package api_collections.set._244.modelo;
+package api_collections._1_set._245.modelo;
 
 import java.util.Objects;
 
@@ -56,5 +56,18 @@ public class Alumno implements Comparable<Alumno> {
             return 0;
         }
         return this.nota.compareTo(a.nota);
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (!(o instanceof Alumno)) return false;
+        Alumno alumno = (Alumno) o;
+        return Objects.equals(getNombre(), alumno.getNombre()) && Objects.equals(getNota(), alumno.getNota());
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(getNombre(), getNota());
     }
 }

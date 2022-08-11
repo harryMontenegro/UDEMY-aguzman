@@ -1,4 +1,4 @@
-package api_collections.set._246.modelo;
+package api_collections._2_ArrayList._250.modelo;
 
 import java.util.Objects;
 
@@ -38,10 +38,10 @@ public class Alumno implements Comparable<Alumno> {
     @Override
     public int compareTo(Alumno a) {
 
-        /*if(this.nombre == null){
+        if(this.nombre == null){
             return 0;
         }
-        return this.nombre.compareTo(a.nombre);*/
+        return this.nombre.compareTo(a.nombre);
 
         /*if (Objects.equals(this.nota, a.nota)) {
             return 0;
@@ -52,10 +52,10 @@ public class Alumno implements Comparable<Alumno> {
             return -1;
         }*/
 
-        if(this.nombre == null){
+        /*if(this.nombre == null){
             return 0;
         }
-        return this.nota.compareTo(a.nota);
+        return this.nota.compareTo(a.nota);*/
     }
 
     @Override

@@ -1,4 +1,4 @@
-package api_collections.set._245.modelo;
+package api_collections._1_set._246.modelo;
 
 import java.util.Objects;
 
