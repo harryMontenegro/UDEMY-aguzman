@@ -1,4 +1,4 @@
-package hilos_concurrencia._265.ejemplosync;
+package hilos_concurrencia._271.ejemploexecutorfuture.ejemplosync;
 
 import java.util.concurrent.ThreadLocalRandom;
 
