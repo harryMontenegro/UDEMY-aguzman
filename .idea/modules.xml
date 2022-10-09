@@ -3,34 +3,34 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/UDEMY-aguzman.iml" filepath="$PROJECT_DIR$/UDEMY-aguzman.iml" />
-      <module fileurl="file://$PROJECT_DIR$/seccion10/seccion10.iml" filepath="$PROJECT_DIR$/seccion10/seccion10.iml" />
-      <module fileurl="file://$PROJECT_DIR$/seccion11/seccion11.iml" filepath="$PROJECT_DIR$/seccion11/seccion11.iml" />
-      <module fileurl="file://$PROJECT_DIR$/seccion12/seccion12.iml" filepath="$PROJECT_DIR$/seccion12/seccion12.iml" />
-      <module fileurl="file://$PROJECT_DIR$/seccion13/seccion13.iml" filepath="$PROJECT_DIR$/seccion13/seccion13.iml" />
-      <module fileurl="file://$PROJECT_DIR$/seccion14/seccion14.iml" filepath="$PROJECT_DIR$/seccion14/seccion14.iml" />
-      <module fileurl="file://$PROJECT_DIR$/seccion15/seccion15.iml" filepath="$PROJECT_DIR$/seccion15/seccion15.iml" />
-      <module fileurl="file://$PROJECT_DIR$/seccion16/seccion16.iml" filepath="$PROJECT_DIR$/seccion16/seccion16.iml" />
-      <module fileurl="file://$PROJECT_DIR$/seccion17/seccion17.iml" filepath="$PROJECT_DIR$/seccion17/seccion17.iml" />
-      <module fileurl="file://$PROJECT_DIR$/seccion18/seccion18.iml" filepath="$PROJECT_DIR$/seccion18/seccion18.iml" />
-      <module fileurl="file://$PROJECT_DIR$/seccion19/seccion19.iml" filepath="$PROJECT_DIR$/seccion19/seccion19.iml" />
-      <module fileurl="file://$PROJECT_DIR$/seccion2/seccion2.iml" filepath="$PROJECT_DIR$/seccion2/seccion2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/seccion20/seccion20.iml" filepath="$PROJECT_DIR$/seccion20/seccion20.iml" />
-      <module fileurl="file://$PROJECT_DIR$/seccion21/seccion21.iml" filepath="$PROJECT_DIR$/seccion21/seccion21.iml" />
-      <module fileurl="file://$PROJECT_DIR$/seccion22/seccion22.iml" filepath="$PROJECT_DIR$/seccion22/seccion22.iml" />
-      <module fileurl="file://$PROJECT_DIR$/seccion23/seccion23.iml" filepath="$PROJECT_DIR$/seccion23/seccion23.iml" />
-      <module fileurl="file://$PROJECT_DIR$/seccion24/seccion24.iml" filepath="$PROJECT_DIR$/seccion24/seccion24.iml" />
-      <module fileurl="file://$PROJECT_DIR$/seccion25/seccion25.iml" filepath="$PROJECT_DIR$/seccion25/seccion25.iml" />
-      <module fileurl="file://$PROJECT_DIR$/seccion26/seccion26.iml" filepath="$PROJECT_DIR$/seccion26/seccion26.iml" />
-      <module fileurl="file://$PROJECT_DIR$/seccion27/seccion27.iml" filepath="$PROJECT_DIR$/seccion27/seccion27.iml" />
-      <module fileurl="file://$PROJECT_DIR$/seccion28/seccion28.iml" filepath="$PROJECT_DIR$/seccion28/seccion28.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seccion10-clase_math/seccion10-clase_math.iml" filepath="$PROJECT_DIR$/seccion10-clase_math/seccion10-clase_math.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seccion11-linea_comandos/seccion11-linea_comandos.iml" filepath="$PROJECT_DIR$/seccion11-linea_comandos/seccion11-linea_comandos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seccion12-arreglos/seccion12-arreglos.iml" filepath="$PROJECT_DIR$/seccion12-arreglos/seccion12-arreglos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seccion13-arreglos_bidimensionales/seccion13-arreglos_bidimensionales.iml" filepath="$PROJECT_DIR$/seccion13-arreglos_bidimensionales/seccion13-arreglos_bidimensionales.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seccion14-poo_clases_objetos/seccion14-poo_clases_objetos.iml" filepath="$PROJECT_DIR$/seccion14-poo_clases_objetos/seccion14-poo_clases_objetos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seccion15-poo_paquetes/seccion15-poo_paquetes.iml" filepath="$PROJECT_DIR$/seccion15-poo_paquetes/seccion15-poo_paquetes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seccion16-poo_ejemplo_facturas/seccion16-poo_ejemplo_facturas.iml" filepath="$PROJECT_DIR$/seccion16-poo_ejemplo_facturas/seccion16-poo_ejemplo_facturas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seccion17-poo_sobrecarga_metodos/seccion17-poo_sobrecarga_metodos.iml" filepath="$PROJECT_DIR$/seccion17-poo_sobrecarga_metodos/seccion17-poo_sobrecarga_metodos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seccion18-poo_herencia/seccion18-poo_herencia.iml" filepath="$PROJECT_DIR$/seccion18-poo_herencia/seccion18-poo_herencia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seccion19-poo_herencia_clases_abstractas/seccion19-poo_herencia_clases_abstractas.iml" filepath="$PROJECT_DIR$/seccion19-poo_herencia_clases_abstractas/seccion19-poo_herencia_clases_abstractas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seccion2-variables/seccion2-variables.iml" filepath="$PROJECT_DIR$/seccion2-variables/seccion2-variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seccion20-poo_interfaces/seccion20-poo_interfaces.iml" filepath="$PROJECT_DIR$/seccion20-poo_interfaces/seccion20-poo_interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seccion21-poo_ejemplo_interface_repositorio/seccion21-poo_ejemplo_interface_repositorio.iml" filepath="$PROJECT_DIR$/seccion21-poo_ejemplo_interface_repositorio/seccion21-poo_ejemplo_interface_repositorio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seccion22-tipo_genericos/seccion22-tipo_genericos.iml" filepath="$PROJECT_DIR$/seccion22-tipo_genericos/seccion22-tipo_genericos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seccion23-manejo_excepciones/seccion23-manejo_excepciones.iml" filepath="$PROJECT_DIR$/seccion23-manejo_excepciones/seccion23-manejo_excepciones.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seccion24-estructura_datos-api_collections/seccion24-estructura_datos-api_collections.iml" filepath="$PROJECT_DIR$/seccion24-estructura_datos-api_collections/seccion24-estructura_datos-api_collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seccion25-threads_hilos_concurrencia/seccion25-threads_hilos_concurrencia.iml" filepath="$PROJECT_DIR$/seccion25-threads_hilos_concurrencia/seccion25-threads_hilos_concurrencia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seccion26-prog_func-expresiones_lambda/seccion26-prog_func-expresiones_lambda.iml" filepath="$PROJECT_DIR$/seccion26-prog_func-expresiones_lambda/seccion26-prog_func-expresiones_lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seccion27-prog_func-api_stream/seccion27-prog_func-api_stream.iml" filepath="$PROJECT_DIR$/seccion27-prog_func-api_stream/seccion27-prog_func-api_stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seccion28-prog_func-optional/seccion28-prog_func-optional.iml" filepath="$PROJECT_DIR$/seccion28-prog_func-optional/seccion28-prog_func-optional.iml" />
       <module fileurl="file://$PROJECT_DIR$/seccion29-java8_Date_Time/seccion29-java8_Date_Time.iml" filepath="$PROJECT_DIR$/seccion29-java8_Date_Time/seccion29-java8_Date_Time.iml" />
-      <module fileurl="file://$PROJECT_DIR$/seccion3/seccion3.iml" filepath="$PROJECT_DIR$/seccion3/seccion3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/seccion4/seccion4.iml" filepath="$PROJECT_DIR$/seccion4/seccion4.iml" />
-      <module fileurl="file://$PROJECT_DIR$/seccion5/seccion5.iml" filepath="$PROJECT_DIR$/seccion5/seccion5.iml" />
-      <module fileurl="file://$PROJECT_DIR$/seccion6/seccion6.iml" filepath="$PROJECT_DIR$/seccion6/seccion6.iml" />
-      <module fileurl="file://$PROJECT_DIR$/seccion7/seccion7.iml" filepath="$PROJECT_DIR$/seccion7/seccion7.iml" />
-      <module fileurl="file://$PROJECT_DIR$/seccion8/seccion8.iml" filepath="$PROJECT_DIR$/seccion8/seccion8.iml" />
-      <module fileurl="file://$PROJECT_DIR$/seccion9/seccion9.iml" filepath="$PROJECT_DIR$/seccion9/seccion9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seccion3-string_cadenas/seccion3-string_cadenas.iml" filepath="$PROJECT_DIR$/seccion3-string_cadenas/seccion3-string_cadenas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seccion4-operadores/seccion4-operadores.iml" filepath="$PROJECT_DIR$/seccion4-operadores/seccion4-operadores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seccion5-flujos_control/seccion5-flujos_control.iml" filepath="$PROJECT_DIR$/seccion5-flujos_control/seccion5-flujos_control.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seccion6-clases_wrapper/seccion6-clases_wrapper.iml" filepath="$PROJECT_DIR$/seccion6-clases_wrapper/seccion6-clases_wrapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seccion7-valor_vs_referencia/seccion7-valor_vs_referencia.iml" filepath="$PROJECT_DIR$/seccion7-valor_vs_referencia/seccion7-valor_vs_referencia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seccion8-clase_date_calendar/seccion8-clase_date_calendar.iml" filepath="$PROJECT_DIR$/seccion8-clase_date_calendar/seccion8-clase_date_calendar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seccion9-clase_system/seccion9-clase_system.iml" filepath="$PROJECT_DIR$/seccion9-clase_system/seccion9-clase_system.iml" />
     </modules>
   </component>
 </project>
