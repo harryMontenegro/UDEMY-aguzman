@@ -26,7 +26,7 @@ public class EjemploOptional {
         System.out.println(opt.isPresent());
 
         opt.ifPresent(valor -> System.out.println("Hola " + valor));
-        //opt.ifPresentOrElse desde java 9,
+        //opt.ifPresentOrElse desde java 9, recibe como segundo argumento un runnable
         //opt.ifPresentOrElse(valor -> System.out.println("Hola " + valor), () -> {System.out.println("No esta presente")});
 
         Optional<String> optEmpty = Optional.empty();
