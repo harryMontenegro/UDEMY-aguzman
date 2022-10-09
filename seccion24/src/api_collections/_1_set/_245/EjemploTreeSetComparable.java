@@ -8,7 +8,7 @@ import java.util.TreeSet;
 public class EjemploTreeSetComparable {
     public static void main(String[] args) {
 
-        Set<Alumno> sa = new TreeSet<>((a, b)-> b.getNota().compareTo(a.getNota()));// Si la clase alumno tiene la implementación Comparable, y se pasa una implementación al vuelo, esta sobreescribe la implementada en la clase
+        Set<Alumno> sa = new TreeSet<>((a, b)-> b.getNota().compareTo(a.getNota()));// Si la clase alumno tiene la implementación Comparable, y se pasa una implementación de Comparator al vuelo, esta sobreescribe la implementada en la clase
         sa.add(new Alumno("Pato", 5));
         sa.add(new Alumno("Cata", 6));
         sa.add(new Alumno("Luci", 4));

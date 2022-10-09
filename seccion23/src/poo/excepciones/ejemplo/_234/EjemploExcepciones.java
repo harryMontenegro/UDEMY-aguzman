@@ -2,7 +2,7 @@ package poo.excepciones.ejemplo._234;
 
 import javax.swing.*;
 
-// Excepciones unchecked: es cuando no nbos obliga a manejar el error bien sea con un try catch o lanzandolo por algún metodo
+// Excepciones unchecked: es cuando no nos obliga a manejar el error bien sea con un try catch o lanzandolo por algún metodo
 public class EjemploExcepciones {
     public static void main(String[] args) {
         //Nota: a medida que el aplicativo recorra el flujo se deben ir capturando las excepciones en el mismo orden
