@@ -12,9 +12,6 @@ public abstract class Cocinero {
         empaquetarPizza();
 
     }
-
-    protected abstract void prepararIngredientes();
-    protected abstract void  agregarIngredientes();
     private void prepararmasa(){
         System.out.println("Preparando masa..");
     }
@@ -27,4 +24,7 @@ public abstract class Cocinero {
     private void empaquetarPizza(){
         System.out.println("Empaquetando pizza");
     }
+
+    protected abstract void prepararIngredientes();
+    protected abstract void  agregarIngredientes();
 }
