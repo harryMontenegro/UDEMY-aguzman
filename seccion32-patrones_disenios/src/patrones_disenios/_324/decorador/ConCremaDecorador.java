@@ -2,9 +2,9 @@ package patrones_disenios._324.decorador;
 
 import patrones_disenios._324.Configurable;
 
-public class ConcreamaDecorador extends CafeDecorador{
+public class ConCremaDecorador extends CafeDecorador{
 
-    public ConcreamaDecorador(Configurable cafe) {
+    public ConCremaDecorador(Configurable cafe) {
         super(cafe);
     }
 
