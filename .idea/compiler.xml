@@ -6,8 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="seccion37-junit_testing" />
+        <module name="seccion37-testing_junit" />
+        <module name="seccion34-bd_jdbc" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="seccion37-junit_testing" target="19" />
+    </bytecodeTargetLevel>
   </component>
 </project>

@@ -5,6 +5,8 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/seccion37-testing_junit/pom.xml" />
+        <option value="$PROJECT_DIR$/seccion34-bd_jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/seccion37-junit_testing/pom.xml" />
       </list>
     </option>
   </component>
