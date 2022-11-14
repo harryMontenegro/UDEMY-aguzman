@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/seccion34-bd_jdbc/pom.xml" />
         <option value="$PROJECT_DIR$/seccion37-junit_testing/pom.xml" />
         <option value="$PROJECT_DIR$/seccion35-jdbc_pool_conexiones/pom.xml" />
+        <option value="$PROJECT_DIR$/seccion36-jdbc_transacciones/pom.xml" />
       </list>
     </option>
   </component>

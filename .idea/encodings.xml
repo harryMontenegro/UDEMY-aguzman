@@ -5,6 +5,8 @@
     <file url="file://$PROJECT_DIR$/seccion34-bd_jdbc/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/seccion35-jdbc_pool_conexiones/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/seccion35-jdbc_pool_conexiones/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seccion36-jdbc_transacciones/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seccion36-jdbc_transacciones/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/seccion37-junit_testing/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/seccion37-junit_testing/src/main/resources" charset="UTF-8" />
   </component>
